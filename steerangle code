@@ -14,6 +14,6 @@ for i in range(0,len(ax)) :
   elif rreal[i] > rdes: 
     steerangl -= 1 
   else: 
-    steerangl = steerangle
+    steerangl = steerangl
 
 print (steerangl)
